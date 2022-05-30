@@ -1,4 +1,4 @@
-package com.maliotis.nfclib
+package com.pearldrift.nfclib
 
 import org.junit.Test
 

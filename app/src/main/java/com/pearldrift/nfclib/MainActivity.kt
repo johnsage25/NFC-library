@@ -5,7 +5,7 @@ import android.nfc.NfcAdapter
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.maliotis.nfclib.R
+import com.pearldrift.nfclib.R
 import com.pearldrift.nfclibrary.NfcTech.NFCA
 import com.pearldrift.nfclibrary.factories.NFCFactory
 import com.pearldrift.nfclibrary.nfc.ReadNFC

@@ -1,9 +1,4 @@
-package com.maliotis.nfclib;
-
-import android.nfc.NdefMessage;
-import android.nfc.tech.Ndef;
-
-import kotlin.jvm.functions.Function1;
+package com.pearldrift.nfclib;
 
 /**
  * Created by petrosmaliotis on 01/06/2020.
