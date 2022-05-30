@@ -1,18 +1,15 @@
-package com.maliotis.nfclib
+package com.pearldrift.nfclibrary
 
 import android.content.Intent
-import android.nfc.NdefRecord
 import android.nfc.NfcAdapter
-import android.nfc.Tag
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.pearldrift.nfclibrary.NfcTech
+import com.maliotis.nfclib.R
 import com.pearldrift.nfclibrary.NfcTech.NFCA
 import com.pearldrift.nfclibrary.factories.NFCFactory
 import com.pearldrift.nfclibrary.nfc.ReadNFC
 import com.pearldrift.nfclibrary.nfc.WriteNFC
-import java.util.*
 
 class MainActivity : AppCompatActivity() {
 
